@@ -1,3 +1,7 @@
+## Student Name: OWATE SAMSON KAYODE
+## Matric No: 26/21729
+## Level: 200
+## Dept: Computer Science
 
 # COS 201 - Week 3 Practical
 
